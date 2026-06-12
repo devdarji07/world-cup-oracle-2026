@@ -1,0 +1,3 @@
+import Link from "next/link";
+const links=[["Groups","/dashboard"],["Third Place","/dashboard/third-place"],["Bracket","/dashboard/bracket"],["Final","/dashboard/final"],["Odds","/dashboard/odds"]];
+export function DashboardNav(){return <nav className="sticky top-4 z-50 mx-auto mb-10 flex max-w-7xl flex-wrap gap-2 rounded-2xl border-2 border-cyan-300 bg-black/80 p-3 shadow-[6px_6px_0_#22d3ee] backdrop-blur-xl"><Link href="/" className="mr-auto px-4 py-2 font-black uppercase">Oracle 26</Link>{links.map(([label,href])=><Link key={href} href={href} className="rounded-xl px-4 py-2 text-sm font-bold hover:bg-cyan-300 hover:text-black">{label}</Link>)}</nav>}

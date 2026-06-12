@@ -1,0 +1,105 @@
+match_id,stage,group,home_team,away_team,home_win_probability,draw_probability,away_win_probability,predicted_score,home_score,away_score,winner,decided_by
+GS-1,Group Stage,A,Mexico,South Africa,70.69999694824219,19.200000762939453,10.100000381469727,2-1,2,1,Mexico,regulation
+GS-2,Group Stage,A,South Korea,Czechia,52.900001525878906,28.700000762939453,18.399999618530273,2-1,2,1,South Korea,regulation
+GS-3,Group Stage,A,Czechia,South Africa,56.099998474121094,28.399999618530273,15.600000381469727,2-1,2,1,Czechia,regulation
+GS-4,Group Stage,A,Mexico,South Korea,49.5,27.799999237060547,22.700000762939453,2-1,2,1,Mexico,regulation
+GS-5,Group Stage,A,Czechia,Mexico,27.200000762939453,31.700000762939453,41.099998474121094,1-1,1,1,,regulation
+GS-6,Group Stage,A,South Africa,South Korea,24.0,30.799999237060547,45.099998474121094,1-1,1,1,,regulation
+GS-7,Group Stage,B,Canada,Bosnia & Herzegovina,87.5,7.5,5.0,3-0,3,0,Canada,regulation
+GS-8,Group Stage,B,Qatar,Switzerland,21.899999618530273,31.700000762939453,46.400001525878906,1-1,1,1,,regulation
+GS-9,Group Stage,B,Switzerland,Bosnia & Herzegovina,87.9000015258789,6.800000190734863,5.300000190734863,3-1,3,1,Switzerland,regulation
+GS-10,Group Stage,B,Canada,Qatar,58.099998474121094,25.5,16.399999618530273,2-1,2,1,Canada,regulation
+GS-11,Group Stage,B,Bosnia & Herzegovina,Qatar,24.299999237060547,11.600000381469727,64.0999984741211,1-1,1,1,,regulation
+GS-12,Group Stage,B,Switzerland,Canada,47.70000076293945,28.299999237060547,24.0,1-1,1,1,,regulation
+GS-13,Group Stage,C,Brazil,Morocco,44.900001525878906,29.0,26.100000381469727,1-1,1,1,,regulation
+GS-14,Group Stage,C,Haiti,Scotland,31.700000762939453,27.899999618530273,40.400001525878906,1-1,1,1,,regulation
+GS-15,Group Stage,C,Scotland,Morocco,22.399999618530273,32.0,45.70000076293945,1-1,1,1,,regulation
+GS-16,Group Stage,C,Brazil,Haiti,85.9000015258789,7.300000190734863,6.699999809265137,4-0,4,0,Brazil,regulation
+GS-17,Group Stage,C,Morocco,Haiti,86.69999694824219,6.900000095367432,6.300000190734863,3-0,3,0,Morocco,regulation
+GS-18,Group Stage,C,Scotland,Brazil,15.600000381469727,22.899999618530273,61.5,1-2,1,2,Brazil,regulation
+GS-19,Group Stage,D,USA,Paraguay,31.0,9.699999809265137,59.29999923706055,1-2,1,2,Paraguay,regulation
+GS-20,Group Stage,D,Australia,Turkey,80.0,13.600000381469727,6.5,3-1,3,1,Australia,regulation
+GS-21,Group Stage,D,USA,Australia,35.400001525878906,9.0,55.70000076293945,1-1,1,1,,regulation
+GS-22,Group Stage,D,Turkey,Paraguay,34.5,7.800000190734863,57.70000076293945,1-1,1,1,,regulation
+GS-23,Group Stage,D,Paraguay,Australia,39.20000076293945,30.899999618530273,29.899999618530273,1-1,1,1,,regulation
+GS-24,Group Stage,D,Turkey,USA,44.099998474121094,30.0,25.899999618530273,1-1,1,1,,regulation
+GS-25,Group Stage,E,Germany,Curacao,85.80000305175781,8.899999618530273,5.300000190734863,5-1,5,1,Germany,regulation
+GS-26,Group Stage,E,Cote d'Ivoire,Ecuador,25.799999237060547,9.5,64.5999984741211,1-3,1,3,Ecuador,regulation
+GS-27,Group Stage,E,Germany,Cote d'Ivoire,85.80000305175781,8.899999618530273,5.300000190734863,5-1,5,1,Germany,regulation
+GS-28,Group Stage,E,Ecuador,Curacao,86.0,8.399999618530273,5.5,3-1,3,1,Ecuador,regulation
+GS-29,Group Stage,E,Curacao,Cote d'Ivoire,40.29999923706055,35.400001525878906,24.200000762939453,1-1,1,1,,regulation
+GS-30,Group Stage,E,Ecuador,Germany,39.599998474121094,29.0,31.399999618530273,1-1,1,1,,regulation
+GS-31,Group Stage,F,Netherlands,Japan,53.70000076293945,24.100000381469727,22.100000381469727,2-1,2,1,Netherlands,regulation
+GS-32,Group Stage,F,Sweden,Tunisia,49.20000076293945,26.399999618530273,24.399999618530273,1-1,1,1,,regulation
+GS-33,Group Stage,F,Netherlands,Sweden,63.099998474121094,24.0,13.0,2-1,2,1,Netherlands,regulation
+GS-34,Group Stage,F,Tunisia,Japan,27.200000762939453,31.700000762939453,41.099998474121094,1-1,1,1,,regulation
+GS-35,Group Stage,F,Japan,Sweden,47.20000076293945,32.5,20.399999618530273,1-1,1,1,,regulation
+GS-36,Group Stage,F,Tunisia,Netherlands,15.100000381469727,22.200000762939453,62.70000076293945,1-2,1,2,Netherlands,regulation
+GS-37,Group Stage,G,Belgium,Egypt,59.70000076293945,27.700000762939453,12.600000381469727,2-1,2,1,Belgium,regulation
+GS-38,Group Stage,G,Iran,New Zealand,80.19999694824219,12.800000190734863,7.0,3-1,3,1,Iran,regulation
+GS-39,Group Stage,G,Belgium,Iran,53.70000076293945,24.100000381469727,22.100000381469727,2-1,2,1,Belgium,regulation
+GS-40,Group Stage,G,New Zealand,Egypt,23.299999237060547,12.699999809265137,64.0,1-1,1,1,,regulation
+GS-41,Group Stage,G,Egypt,Iran,37.900001525878906,31.0,31.100000381469727,1-1,1,1,,regulation
+GS-42,Group Stage,G,New Zealand,Belgium,8.5,6.599999904632568,84.9000015258789,1-2,1,2,Belgium,regulation
+GS-43,Group Stage,H,Spain,Cape Verde,79.69999694824219,12.800000190734863,7.599999904632568,3-1,3,1,Spain,regulation
+GS-44,Group Stage,H,Saudi Arabia,Uruguay,20.899999618530273,27.399999618530273,51.70000076293945,1-1,1,1,,regulation
+GS-45,Group Stage,H,Spain,Saudi Arabia,76.5,15.0,8.5,3-1,3,1,Spain,regulation
+GS-46,Group Stage,H,Uruguay,Cape Verde,75.0,16.0,9.0,2-1,2,1,Uruguay,regulation
+GS-47,Group Stage,H,Cape Verde,Saudi Arabia,36.29999923706055,31.200000762939453,32.5,1-1,1,1,,regulation
+GS-48,Group Stage,H,Uruguay,Spain,29.0,29.0,42.0,1-1,1,1,,regulation
+GS-49,Group Stage,I,France,Senegal,60.099998474121094,27.399999618530273,12.5,2-1,2,1,France,regulation
+GS-50,Group Stage,I,Iraq,Norway,16.299999237060547,25.100000381469727,58.599998474121094,1-1,1,1,,regulation
+GS-51,Group Stage,I,France,Iraq,78.0,15.300000190734863,6.699999809265137,2-1,2,1,France,regulation
+GS-52,Group Stage,I,Norway,Senegal,35.5,32.20000076293945,32.29999923706055,1-1,1,1,,regulation
+GS-53,Group Stage,I,Norway,France,15.399999618530273,25.299999237060547,59.29999923706055,1-2,1,2,France,regulation
+GS-54,Group Stage,I,Senegal,Iraq,67.4000015258789,21.799999237060547,10.800000190734863,2-1,2,1,Senegal,regulation
+GS-55,Group Stage,J,Argentina,Algeria,59.20000076293945,27.5,13.300000190734863,2-1,2,1,Argentina,regulation
+GS-56,Group Stage,J,Austria,Jordan,59.70000076293945,26.299999237060547,14.0,2-1,2,1,Austria,regulation
+GS-57,Group Stage,J,Argentina,Austria,60.900001525878906,27.200000762939453,11.899999618530273,2-1,2,1,Argentina,regulation
+GS-58,Group Stage,J,Jordan,Algeria,24.0,30.799999237060547,45.099998474121094,1-1,1,1,,regulation
+GS-59,Group Stage,J,Algeria,Austria,40.599998474121094,32.5,26.799999237060547,1-1,1,1,,regulation
+GS-60,Group Stage,J,Jordan,Argentina,9.399999618530273,10.800000190734863,79.80000305175781,1-2,1,2,Argentina,regulation
+GS-61,Group Stage,K,Portugal,DR Congo,83.80000305175781,11.0,5.199999809265137,5-1,5,1,Portugal,regulation
+GS-62,Group Stage,K,Uzbekistan,Colombia,22.799999237060547,31.799999237060547,45.400001525878906,1-1,1,1,,regulation
+GS-63,Group Stage,K,Portugal,Uzbekistan,68.9000015258789,21.100000381469727,10.0,3-1,3,1,Portugal,regulation
+GS-64,Group Stage,K,Colombia,DR Congo,85.0,9.399999618530273,5.699999809265137,4-1,4,1,Colombia,regulation
+GS-65,Group Stage,K,Colombia,Portugal,37.29999923706055,28.799999237060547,33.900001525878906,1-1,1,1,,regulation
+GS-66,Group Stage,K,DR Congo,Uzbekistan,35.79999923706055,8.600000381469727,55.599998474121094,1-1,1,1,,regulation
+GS-67,Group Stage,L,England,Croatia,51.20000076293945,26.399999618530273,22.399999618530273,2-1,2,1,England,regulation
+GS-68,Group Stage,L,Ghana,Panama,34.099998474121094,26.5,39.400001525878906,1-1,1,1,,regulation
+GS-69,Group Stage,L,England,Ghana,80.69999694824219,11.399999618530273,8.0,3-0,3,0,England,regulation
+GS-70,Group Stage,L,Panama,Croatia,25.600000381469727,32.599998474121094,41.79999923706055,1-1,1,1,,regulation
+GS-71,Group Stage,L,Croatia,Ghana,80.4000015258789,12.199999809265137,7.400000095367432,3-1,3,1,Croatia,regulation
+GS-72,Group Stage,L,Panama,England,13.199999809265137,24.399999618530273,62.400001525878906,1-2,1,2,England,regulation
+R32-1,Round of 32,,Germany,Czechia,64.30000305175781,23.5,12.199999809265137,2-1,2,1,Germany,regulation
+R32-2,Round of 32,,France,Scotland,67.5,22.0,10.5,2-1,2,1,France,regulation
+R32-3,Round of 32,,South Korea,Switzerland,39.29999923706055,30.299999237060547,30.399999618530273,1-1,1,1,South Korea,penalties
+R32-4,Round of 32,,Netherlands,Morocco,42.400001525878906,30.299999237060547,27.299999237060547,1-1,1,1,Netherlands,penalties
+R32-5,Round of 32,,Colombia,Croatia,37.70000076293945,34.70000076293945,27.600000381469727,1-1,1,1,Colombia,penalties
+R32-6,Round of 32,,Spain,Austria,61.20000076293945,27.299999237060547,11.399999618530273,2-1,2,1,Spain,regulation
+R32-7,Round of 32,,Australia,Qatar,58.400001525878906,25.600000381469727,16.0,2-1,2,1,Australia,regulation
+R32-8,Round of 32,,Belgium,Norway,58.79999923706055,27.799999237060547,13.300000190734863,2-1,2,1,Belgium,regulation
+R32-9,Round of 32,,Brazil,Japan,54.20000076293945,24.399999618530273,21.399999618530273,2-1,2,1,Brazil,regulation
+R32-10,Round of 32,,Ecuador,Senegal,37.20000076293945,31.0,31.799999237060547,1-1,1,1,Ecuador,penalties
+R32-11,Round of 32,,Mexico,Sweden,47.099998474121094,32.400001525878906,20.600000381469727,1-1,1,1,Mexico,penalties
+R32-12,Round of 32,,England,Algeria,61.5,27.5,11.0,2-1,2,1,England,regulation
+R32-13,Round of 32,,Argentina,Uruguay,59.5,27.100000381469727,13.399999618530273,2-1,2,1,Argentina,regulation
+R32-14,Round of 32,,Paraguay,Iran,31.899999618530273,32.0,36.0,1-1,1,1,Paraguay,penalties
+R32-15,Round of 32,,Canada,Egypt,42.79999923706055,31.399999618530273,25.899999618530273,1-1,1,1,Egypt,penalties
+R32-16,Round of 32,,Portugal,Panama,62.0,25.100000381469727,13.0,3-1,3,1,Portugal,regulation
+R16-1,Round of 16,,Germany,France,37.20000076293945,23.100000381469727,39.70000076293945,1-1,1,1,France,penalties
+R16-2,Round of 16,,South Korea,Netherlands,22.299999237060547,29.0,48.70000076293945,1-1,1,1,Netherlands,penalties
+R16-3,Round of 16,,Colombia,Spain,31.799999237060547,31.399999618530273,36.900001525878906,1-1,1,1,Spain,penalties
+R16-4,Round of 16,,Australia,Belgium,21.100000381469727,31.0,48.0,1-1,1,1,Australia,penalties
+R16-5,Round of 16,,Brazil,Ecuador,59.70000076293945,28.600000381469727,11.699999809265137,2-1,2,1,Brazil,regulation
+R16-6,Round of 16,,Mexico,England,31.299999237060547,31.600000381469727,37.099998474121094,1-1,1,1,Mexico,penalties
+R16-7,Round of 16,,Argentina,Paraguay,64.0999984741211,24.5,11.399999618530273,3-1,3,1,Argentina,regulation
+R16-8,Round of 16,,Egypt,Portugal,16.299999237060547,27.0,56.70000076293945,1-2,1,2,Portugal,regulation
+QF-1,Quarterfinal,,France,Netherlands,53.5,25.200000762939453,21.299999237060547,2-1,2,1,France,regulation
+QF-2,Quarterfinal,,Spain,Australia,60.79999923706055,27.100000381469727,12.100000381469727,3-1,3,1,Spain,regulation
+QF-3,Quarterfinal,,Brazil,Mexico,54.20000076293945,24.399999618530273,21.399999618530273,2-1,2,1,Brazil,regulation
+QF-4,Quarterfinal,,Argentina,Portugal,42.79999923706055,31.200000762939453,26.100000381469727,1-1,1,1,Argentina,penalties
+SF-1,Semifinal,,France,Spain,42.79999923706055,30.600000381469727,26.600000381469727,1-1,1,1,France,penalties
+SF-2,Semifinal,,Brazil,Argentina,41.400001525878906,29.700000762939453,28.899999618530273,1-1,1,1,Argentina,penalties
+3P-1,Third Place,,Spain,Brazil,42.79999923706055,30.600000381469727,26.600000381469727,1-1,1,1,Spain,penalties
+F-1,Final,,France,Argentina,45.70000076293945,29.600000381469727,24.600000381469727,1-1,1,1,France,penalties

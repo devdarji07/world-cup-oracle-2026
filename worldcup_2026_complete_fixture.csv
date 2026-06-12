@@ -1,0 +1,89 @@
+stage,match_id,group,team_slot_1,team_slot_2
+Group Stage,GS-1,A,Mexico,South Africa
+Group Stage,GS-2,A,South Korea,Czechia
+Group Stage,GS-3,A,Czechia,South Africa
+Group Stage,GS-4,A,Mexico,South Korea
+Group Stage,GS-5,A,Czechia,Mexico
+Group Stage,GS-6,A,South Africa,South Korea
+Group Stage,GS-7,B,Canada,Bosnia & Herzegovina
+Group Stage,GS-8,B,Qatar,Switzerland
+Group Stage,GS-9,B,Switzerland,Bosnia & Herzegovina
+Group Stage,GS-10,B,Canada,Qatar
+Group Stage,GS-11,B,Bosnia & Herzegovina,Qatar
+Group Stage,GS-12,B,Switzerland,Canada
+Group Stage,GS-13,C,Brazil,Morocco
+Group Stage,GS-14,C,Haiti,Scotland
+Group Stage,GS-15,C,Scotland,Morocco
+Group Stage,GS-16,C,Brazil,Haiti
+Group Stage,GS-17,C,Morocco,Haiti
+Group Stage,GS-18,C,Scotland,Brazil
+Group Stage,GS-19,D,USA,Paraguay
+Group Stage,GS-20,D,Australia,Turkey
+Group Stage,GS-21,D,USA,Australia
+Group Stage,GS-22,D,Turkey,Paraguay
+Group Stage,GS-23,D,Paraguay,Australia
+Group Stage,GS-24,D,Turkey,USA
+Group Stage,GS-25,E,Germany,Curacao
+Group Stage,GS-26,E,Cote d'Ivoire,Ecuador
+Group Stage,GS-27,E,Germany,Cote d'Ivoire
+Group Stage,GS-28,E,Ecuador,Curacao
+Group Stage,GS-29,E,Curacao,Cote d'Ivoire
+Group Stage,GS-30,E,Ecuador,Germany
+Group Stage,GS-31,F,Netherlands,Japan
+Group Stage,GS-32,F,Sweden,Tunisia
+Group Stage,GS-33,F,Netherlands,Sweden
+Group Stage,GS-34,F,Tunisia,Japan
+Group Stage,GS-35,F,Japan,Sweden
+Group Stage,GS-36,F,Tunisia,Netherlands
+Group Stage,GS-37,G,Belgium,Egypt
+Group Stage,GS-38,G,Iran,New Zealand
+Group Stage,GS-39,G,Belgium,Iran
+Group Stage,GS-40,G,New Zealand,Egypt
+Group Stage,GS-41,G,Egypt,Iran
+Group Stage,GS-42,G,New Zealand,Belgium
+Group Stage,GS-43,H,Spain,Cape Verde
+Group Stage,GS-44,H,Saudi Arabia,Uruguay
+Group Stage,GS-45,H,Spain,Saudi Arabia
+Group Stage,GS-46,H,Uruguay,Cape Verde
+Group Stage,GS-47,H,Cape Verde,Saudi Arabia
+Group Stage,GS-48,H,Uruguay,Spain
+Group Stage,GS-49,I,France,Senegal
+Group Stage,GS-50,I,Iraq,Norway
+Group Stage,GS-51,I,France,Iraq
+Group Stage,GS-52,I,Norway,Senegal
+Group Stage,GS-53,I,Norway,France
+Group Stage,GS-54,I,Senegal,Iraq
+Group Stage,GS-55,J,Argentina,Algeria
+Group Stage,GS-56,J,Austria,Jordan
+Group Stage,GS-57,J,Argentina,Austria
+Group Stage,GS-58,J,Jordan,Algeria
+Group Stage,GS-59,J,Algeria,Austria
+Group Stage,GS-60,J,Jordan,Argentina
+Group Stage,GS-61,K,Portugal,DR Congo
+Group Stage,GS-62,K,Uzbekistan,Colombia
+Group Stage,GS-63,K,Portugal,Uzbekistan
+Group Stage,GS-64,K,Colombia,DR Congo
+Group Stage,GS-65,K,Colombia,Portugal
+Group Stage,GS-66,K,DR Congo,Uzbekistan
+Group Stage,GS-67,L,England,Croatia
+Group Stage,GS-68,L,Ghana,Panama
+Group Stage,GS-69,L,England,Ghana
+Group Stage,GS-70,L,Panama,Croatia
+Group Stage,GS-71,L,Croatia,Ghana
+Group Stage,GS-72,L,Panama,England
+Round of 32 Template,R32-1,KO,1E,3ABCDF
+Round of 32 Template,R32-2,KO,1I,3CDFGH
+Round of 32 Template,R32-3,KO,2A,2B
+Round of 32 Template,R32-4,KO,1F,2C
+Round of 32 Template,R32-5,KO,2K,2L
+Round of 32 Template,R32-6,KO,1H,2J
+Round of 32 Template,R32-7,KO,1D,3BEFIJ
+Round of 32 Template,R32-8,KO,1G,3AEHIJ
+Round of 32 Template,R32-9,KO,1C,2F
+Round of 32 Template,R32-10,KO,2E,2I
+Round of 32 Template,R32-11,KO,1A,3CEFHI
+Round of 32 Template,R32-12,KO,1L,3EHIJK
+Round of 32 Template,R32-13,KO,1J,2H
+Round of 32 Template,R32-14,KO,2D,2G
+Round of 32 Template,R32-15,KO,1B,3EFGIJ
+Round of 32 Template,R32-16,KO,1K,3DEIJL

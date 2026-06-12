@@ -1,0 +1,13 @@
+team,group,played,wins,draws,losses,goals_for,goals_against,goal_difference,points,position,third_place_rank,qualified
+Czechia,A,3,1,1,1,4,4,0,4,3,1,True
+Algeria,J,3,0,2,1,3,4,-1,2,3,2,True
+Egypt,G,3,0,2,1,3,4,-1,2,3,3,True
+Norway,I,3,0,2,1,3,4,-1,2,3,4,True
+Panama,L,3,0,2,1,3,4,-1,2,3,5,True
+Sweden,F,3,0,2,1,3,4,-1,2,3,6,True
+Scotland,C,3,0,2,1,3,4,-1,2,3,7,True
+Qatar,B,3,0,2,1,3,4,-1,2,3,8,True
+USA,D,3,0,2,1,3,4,-1,2,3,9,False
+Uzbekistan,K,3,0,2,1,3,5,-2,2,3,10,False
+Saudi Arabia,H,3,0,2,1,3,5,-2,2,3,11,False
+Curacao,E,3,0,1,2,3,9,-6,1,3,12,False
