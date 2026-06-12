@@ -12,12 +12,11 @@ from .routes import match_router, simulation_router, results_router
 app = FastAPI(title="World Cup Oracle 2026 API", version="1.0")
 app.add_middleware(
     CORSMiddleware,
-    allow_origin_regex=r"https://.*\.vercel\.app",
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 app.include_router(match_router)
 app.include_router(simulation_router)
 app.include_router(results_router)
